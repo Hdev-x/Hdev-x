@@ -13,45 +13,73 @@
 
 AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어갈 수 있도록 돕는 도구
 
-![Electron](https://img.shields.io/badge/Electron-334155?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square)
+<p>
+  <img src="assets/icons/electron.svg" width="36" height="36" alt="Electron" title="Electron">
+  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/sqlite.svg" width="36" height="36" alt="SQLite" title="SQLite">
+  <img src="assets/icons/modelcontextprotocol.svg" width="36" height="36" alt="MCP" title="MCP">
+</p>
 
 **[Kopang](https://github.com/Hdev-x/kopang)**
 
 고객 이탈 위험을 감지하고 맞춤 대응의 효과까지 측정하는 커머스 프로젝트
 
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-334155?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-334155?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI">
+  <img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
+</p>
 
 **[PetCare AI](https://github.com/Hdev-x/petcare)**
 
 반려동물 건강 기록·사진 기반 AI 관찰·경과 관리·응급 병원 탐색을 연결하는 서비스
 
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-334155?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-334155?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-334155?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
+<p>
+  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="assets/icons/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript">
+  <img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java">
+  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI">
+</p>
 
 **[Bubit](https://github.com/Hdev-x/Bubit)**
 
 여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
 
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-334155?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-334155?style=flat-square&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-334155?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java">
+  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
+</p>
 
 <h2 align="left">TOOLBOX</h2>
 
 Java, SQL, MyBatis를 배우며 API의 Controller·Service·DB가 연결되는 흐름을 익혔습니다.
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-30363D?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=3178C6)
+
+**Development**
+
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363D?style=flat-square&logo=springboot&logoColor=6DB33F)
+![MyBatis](https://img.shields.io/badge/MyBatis-30363D?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=7BA6DB)
+
+**Workflow**
+
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=FFFFFF)
