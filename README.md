@@ -9,56 +9,52 @@
 
 <h2 align="left">PROJECTS</h2>
 
-**[WYBU](https://hdev-x.vercel.app/#work)**
+<p>
+  <strong><a href="https://hdev-x.vercel.app/#work">WYBU</a></strong>&nbsp;&nbsp;
+  <img src="assets/icons/electron.svg" width="18" height="18" alt="Electron" title="Electron">
+  <img src="assets/icons/react.svg" width="18" height="18" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="18" height="18" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/sqlite.svg" width="18" height="18" alt="SQLite" title="SQLite">
+  <img src="assets/icons/modelcontextprotocol.svg" width="18" height="18" alt="MCP" title="MCP">
+</p>
 
 AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어갈 수 있도록 돕는 도구
 
 <p>
-  <img src="assets/icons/electron.svg" width="36" height="36" alt="Electron" title="Electron">
-  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
-  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
-  <img src="assets/icons/sqlite.svg" width="36" height="36" alt="SQLite" title="SQLite">
-  <img src="assets/icons/modelcontextprotocol.svg" width="36" height="36" alt="MCP" title="MCP">
+  <strong><a href="https://github.com/Hdev-x/kopang">Kopang</a></strong>&nbsp;&nbsp;
+  <img src="assets/icons/react.svg" width="18" height="18" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="18" height="18" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/springboot.svg" width="18" height="18" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="18" height="18" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/fastapi.svg" width="18" height="18" alt="FastAPI" title="FastAPI">
+  <img src="assets/icons/postgresql.svg" width="18" height="18" alt="PostgreSQL" title="PostgreSQL">
 </p>
-
-**[Kopang](https://github.com/Hdev-x/kopang)**
 
 고객 이탈 위험을 감지하고 맞춤 대응의 효과까지 측정하는 커머스 프로젝트
 
 <p>
-  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
-  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
-  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
-  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
-  <img src="assets/icons/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI">
-  <img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
+  <strong><a href="https://github.com/Hdev-x/petcare">PetCare AI</a></strong>&nbsp;&nbsp;
+  <img src="assets/icons/react.svg" width="18" height="18" alt="React" title="React">
+  <img src="assets/icons/javascript.svg" width="18" height="18" alt="JavaScript" title="JavaScript">
+  <img src="assets/icons/java.svg" width="18" height="18" alt="Java" title="Java">
+  <img src="assets/icons/springboot.svg" width="18" height="18" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="18" height="18" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/fastapi.svg" width="18" height="18" alt="FastAPI" title="FastAPI">
 </p>
-
-**[PetCare AI](https://github.com/Hdev-x/petcare)**
 
 반려동물 건강 기록·사진 기반 AI 관찰·경과 관리·응급 병원 탐색을 연결하는 서비스
 
 <p>
-  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
-  <img src="assets/icons/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript">
-  <img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java">
-  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
-  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
-  <img src="assets/icons/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI">
+  <strong><a href="https://github.com/Hdev-x/Bubit">Bubit</a></strong>&nbsp;&nbsp;
+  <img src="assets/icons/react.svg" width="18" height="18" alt="React" title="React">
+  <img src="assets/icons/typescript.svg" width="18" height="18" alt="TypeScript" title="TypeScript">
+  <img src="assets/icons/java.svg" width="18" height="18" alt="Java" title="Java">
+  <img src="assets/icons/springboot.svg" width="18" height="18" alt="Spring Boot" title="Spring Boot">
+  <img src="assets/icons/mybatis.svg" width="18" height="18" alt="MyBatis" title="MyBatis">
+  <img src="assets/icons/postgresql.svg" width="18" height="18" alt="PostgreSQL" title="PostgreSQL">
 </p>
-
-**[Bubit](https://github.com/Hdev-x/Bubit)**
 
 여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
-
-<p>
-  <img src="assets/icons/react.svg" width="36" height="36" alt="React" title="React">
-  <img src="assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
-  <img src="assets/icons/java.svg" width="36" height="36" alt="Java" title="Java">
-  <img src="assets/icons/springboot.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot">
-  <img src="assets/icons/mybatis.svg" width="36" height="36" alt="MyBatis" title="MyBatis">
-  <img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL">
-</p>
 
 <h2 align="left">TOOLBOX</h2>
 
