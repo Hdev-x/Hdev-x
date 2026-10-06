@@ -58,8 +58,6 @@ AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어�
 
 <h2 align="left">TOOLBOX</h2>
 
-Java, SQL, MyBatis를 배우며 API의 Controller·Service·DB가 연결되는 흐름을 익혔습니다.
-
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-30363D?style=flat-square)
