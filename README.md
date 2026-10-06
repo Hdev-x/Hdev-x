@@ -19,7 +19,7 @@ AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어�
 ![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square)
 
-**[Kopang (코팡)](https://github.com/Hdev-x/kopang)**
+**[Kopang](https://github.com/Hdev-x/kopang)**
 
 고객 이탈 위험을 감지하고 맞춤 대응의 효과까지 측정하는 커머스 프로젝트
 
@@ -30,7 +30,7 @@ AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어�
 ![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
 
-**[PetCare AI (펫케어)](https://github.com/Hdev-x/petcare)**
+**[PetCare AI](https://github.com/Hdev-x/petcare)**
 
 반려동물 건강 기록·사진 기반 AI 관찰·경과 관리·응급 병원 탐색을 연결하는 서비스
 
@@ -41,7 +41,7 @@ AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어�
 ![MyBatis](https://img.shields.io/badge/MyBatis-334155?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
 
-**[Bubit (부빗)](https://github.com/Hdev-x/Bubit)**
+**[Bubit](https://github.com/Hdev-x/Bubit)**
 
 여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
 
@@ -55,7 +55,3 @@ AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어�
 <h2 align="left">TOOLBOX</h2>
 
 Java, SQL, MyBatis를 배우며 API의 Controller·Service·DB가 연결되는 흐름을 익혔습니다.
-
-<h2 align="left">LINKS</h2>
-
-[포트폴리오 ↗](https://hdev-x.vercel.app/) · 프로젝트와 개발에 대한 생각을 정리했습니다.
