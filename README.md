@@ -10,19 +10,23 @@
 <h2 align="left">PROJECTS</h2>
 
 <p>
-  <strong><a href="https://hdev-x.vercel.app/#work">WYBU</a></strong> - AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어갈 수 있도록 돕는 도구
+  <strong><a href="https://hdev-x.vercel.app/#work">WYBU</a></strong><br>
+  &emsp;AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어갈 수 있도록 돕는 도구
 </p>
 
 <p>
-  <strong><a href="https://github.com/Hdev-x/kopang">Kopang</a></strong> - 고객 이탈 위험을 감지하고 맞춤 대응의 효과까지 측정하는 커머스 프로젝트
+  <strong><a href="https://github.com/Hdev-x/kopang">Kopang</a></strong><br>
+  &emsp;고객 이탈 위험을 감지하고 맞춤 대응의 효과까지 측정하는 커머스 프로젝트
 </p>
 
 <p>
-  <strong><a href="https://github.com/Hdev-x/petcare">PetCare AI</a></strong> - 반려동물 건강 기록·사진 기반 AI 관찰·경과 관리·응급 병원 탐색을 연결하는 서비스
+  <strong><a href="https://github.com/Hdev-x/petcare">PetCare AI</a></strong><br>
+  &emsp;반려동물 건강 기록·사진 기반 AI 관찰·경과 관리·응급 병원 탐색을 연결하는 서비스
 </p>
 
 <p>
-  <strong><a href="https://github.com/Hdev-x/Bubit">Bubit</a></strong> - 여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
+  <strong><a href="https://github.com/Hdev-x/Bubit">Bubit</a></strong><br>
+  &emsp;여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
 </p>
 
 <h2 align="left">TOOLBOX</h2>
