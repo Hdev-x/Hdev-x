@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/banner-neon-balanced.svg" alt="OWN WHAT YOU BUILD" width="100%">
+  <img src="assets/banner-soft-balanced.svg" alt="OWN WHAT YOU BUILD" width="100%">
 </picture>
 
 더 넓게 시도하고, 더 깊게 이해하며, 만든 결과를 끝까지 책임지는 개발자가 되고자 합니다.
