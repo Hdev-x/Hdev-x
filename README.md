@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="OWN WHAT YOU BUILD — 연결된 유리 패널 그래픽" width="100%">
+<img src="assets/banner-flat.svg" alt="OWN WHAT YOU BUILD — 연결된 평면 카드 그래픽" width="100%">
 
 Java 백엔드를 배우며, AI와 오래 이어갈 수 있는 작업 방식을 탐구합니다.
 
