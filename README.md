@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/banner-textured.svg" alt="OWN WHAT YOU BUILD" width="100%">
+  <img src="assets/banner-neon.svg" alt="OWN WHAT YOU BUILD" width="100%">
 </picture>
 
 Java 백엔드를 배우며, AI와 오래 이어갈 수 있는 작업 방식을 탐구합니다.
