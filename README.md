@@ -2,6 +2,8 @@
   <img src="assets/banner-soft-balanced.svg" alt="OWN WHAT YOU BUILD" width="100%">
 </picture>
 
+---
+
 더 넓게 시도하고, 더 깊게 이해하며, 만든 결과를 끝까지 책임지는 개발자가 되고자 합니다.
 AI로 시도의 폭을 넓히면서도, 무엇을 왜 만드는지 직접 이해하고 검증하는 태도를 중요하게 생각합니다.
 
