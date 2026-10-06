@@ -9,10 +9,15 @@
 
 <h2 align="left">PROJECTS</h2>
 
-**WYBU**
+**[WYBU](https://hdev-x.vercel.app/#work)**
 
-AI와의 작업이 다음 세션에도 이어질 수 있도록, 작업 기록·결정·진행 상황의 맥락을 연결하는 도구를 만들고 있습니다.
-세션이 바뀔 때마다 다시 설명해야 하는 일을 줄이고, 긴 작업의 흐름을 이어가는 방법을 고민합니다.
+AI와의 작업 기록·결정·진행 상황을 다음 세션에서도 이어갈 수 있도록 돕는 도구
+
+![Electron](https://img.shields.io/badge/Electron-334155?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-334155?style=flat-square&logo=sqlite&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-334155?style=flat-square)
 
 <h2 align="left">TOOLBOX</h2>
 
