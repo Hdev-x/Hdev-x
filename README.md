@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Hdev-x — 배우고, 만들고, 이어가기" width="100%">
-</picture>
+<img src="assets/banner.svg" alt="OWN WHAT YOU BUILD — 연결된 유리 패널 그래픽" width="100%">
 
 Java 백엔드를 배우며, AI와 오래 이어갈 수 있는 작업 방식을 탐구합니다.
 
