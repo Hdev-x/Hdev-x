@@ -46,18 +46,24 @@
 <dl>
 <dd>
 
-**Languages** — ![Java](https://img.shields.io/badge/Java-30363D?style=flat-square)
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-30363D?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-30363D?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=3178C6)
 
-**Development** — ![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=61DAFB)
+**Development**
+
+![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-30363D?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![MyBatis](https://img.shields.io/badge/MyBatis-30363D?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-30363D?style=flat-square&logo=fastapi&logoColor=009688)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=7BA6DB)
 
-**Workflow** — ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032)
+**Workflow**
+
+![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=FFFFFF)
 
 </dd>
