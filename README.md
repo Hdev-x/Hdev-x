@@ -2,18 +2,18 @@
   <img src="assets/banner-subtle-retro-880x200.png" alt="BUILD WITH INTENT — BEYOND THE CODE" width="100%">
 </picture>
 
-<br>
+<p><br></p>
 
 <picture>
   <img src="assets/profile-divider.svg" alt="" width="100%" height="1">
 </picture>
 
-<br>
+<p><br></p>
 
 무엇을 왜 만드는지 이해하고, 선택 하나하나에 분명한 이유를 담고자 합니다.
 구현에서 끝내지 않고, 실제로 쓰이는 경험을 살피며 더 나은 결과로 다듬어가는 과정을 중요하게 생각합니다.
 
-<br>
+<p><br></p>
 
 <h3 align="left">PROJECTS</h3>
 
@@ -39,7 +39,7 @@
 </dd>
 </dl>
 
-<br>
+<p><br></p>
 
 <h3 align="left">TOOLBOX</h3>
 
