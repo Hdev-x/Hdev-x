@@ -1,5 +1,5 @@
 <picture>
-  <img src="assets/banner-soft-balanced.svg" alt="OWN WHAT YOU BUILD" width="100%">
+  <img src="assets/banner-subtle-retro-880x200.png" alt="BUILD WITH INTENT — BEYOND THE CODE" width="100%">
 </picture>
 
 <h2 align="left">ABOUT</h2>
