@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
-  <title id="title">Hdev-x</title>
-  <desc id="desc">배우고, 만들고, 이어가기</desc>
-  <rect width="560" height="180" rx="16" fill="#17232E"/>
-  <rect x="32" y="40" width="4" height="100" rx="2" fill="#63D4CF"/>
-  <text x="56" y="88" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="40" font-weight="700" fill="#F0F5F7">Hdev-x</text>
-  <text x="57" y="125" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="23" fill="#BED0DD">배우고, 만들고, 이어가기</text>
-</svg>
