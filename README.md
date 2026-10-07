@@ -8,10 +8,19 @@
 
 <h3 align="left">ABOUT</h3>
 
+<dl>
+<dd>
+
 무엇을 왜 만드는지 이해하고, 선택 하나하나에 분명한 이유를 담고자 합니다.
 구현에서 끝내지 않고, 실제로 쓰이는 경험을 살피며 더 나은 결과로 다듬어가는 과정을 중요하게 생각합니다.
 
+</dd>
+</dl>
+
 <h3 align="left">PROJECTS</h3>
+
+<dl>
+<dd>
 
 <p>
   <strong><a href="https://hdev-x.vercel.app/#work">WYBU</a></strong><br>
@@ -33,7 +42,13 @@
   &emsp;여러 거래소의 실시간 시세와 차트를 한곳에서 확인하는 PC·모바일 암호화폐 분석 앱
 </p>
 
+</dd>
+</dl>
+
 <h3 align="left">TOOLBOX</h3>
+
+<dl>
+<dd>
 
 **Languages**
 
@@ -54,3 +69,6 @@
 
 ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=FFFFFF)
+
+</dd>
+</dl>
